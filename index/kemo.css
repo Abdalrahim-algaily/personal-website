@@ -1,6 +1,6 @@
 /* Start  Varibles */
 :root {
-  --main--color: rgb(202, 167, 70); /* change color*/
+  --main--color:  rgb(240, 213, 140); /* change color*/
   --main--color-alt: silver;
 }
 /* Start Globa Rules */
@@ -24,7 +24,7 @@ html {
 }
 
 body {
-  font-family: Bodoni MT Black;
+  font-family: Bodoni MT rgba(148, 117, 117, 0.144);
 }
 a {
   text-decoration: none;
